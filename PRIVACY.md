@@ -21,7 +21,8 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Shazam] (https://www.shazam.com/privacy)
 
 **Microphone Audio Data**
-This Service records audio from your device's microphone in order to identify music songs. The recorded audio is not retained on the device and not transmitted directly over the server, only a digital fingerprint of the audio is used.
+
+This Service needs permission to record audio from your device's microphone in order to identify music songs. The recorded audio is not retained on the device and not transmitted directly over the server, only a digital fingerprint of the audio is used.
 
 **Log Data**
 
