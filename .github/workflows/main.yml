@@ -23,6 +23,6 @@ jobs:
         with:
           # Use a JWT created with your GitHub App's private key
           token: ${{ github.token }}
-          environment: pr-${{ github.event.number }}
+          environment: github-pages
           ref: ${{ github.ref_name }}
           onlyRemoveDeployments: true
